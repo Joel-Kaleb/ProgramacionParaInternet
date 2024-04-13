@@ -1716,3 +1716,8 @@ ul.simplefilter {
 	}
 }
 /*-- //responsive --*/
+
+#portadas {
+	display: flex;
+	justify-content: space-between;
+}
